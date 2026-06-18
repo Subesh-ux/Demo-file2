@@ -9,3 +9,4 @@ Simplifying IT
 - MEAN Stack
 - Python Full Stack
   
+### Hi! I'm VS Code
