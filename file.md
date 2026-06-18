@@ -1,7 +1,6 @@
 # Credo Systemz
 
-"""Academy to learn Web Development
-HEllo"""
+Simplifying IT
 
 ## Courses Available
 
