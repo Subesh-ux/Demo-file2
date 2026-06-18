@@ -10,3 +10,4 @@ Simplifying IT
 - Python Full Stack
   
 ### Hi! I'm VS Code
+### Hi! I'm GitHub
